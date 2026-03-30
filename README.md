@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![Join the Team](https://img.shields.io/badge/Join%20the%20Team-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](mailto:adodanieln@gmail.com?subject=I%20Want%20to%20Join%20IAmSupreme%20Developers)
-[![Pitch an Idea](https://img.shields.io/badge/Pitch%20an%20Idea-F59E0B?style=for-the-badge&logo=lightbulb&logoColor=white)](mailto:adodanieln@gmail.com?subject=I%20Have%20an%20Idea%20for%20IAmSupreme)
+[![Join the Team](https://img.shields.io/badge/Join%20the%20Team-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](mailto:iamsupremedevelopers@gmail.com?subject=I%20Want%20to%20Join%20IAmSupreme%20Developers)
+[![Pitch an Idea](https://img.shields.io/badge/Pitch%20an%20Idea-F59E0B?style=for-the-badge&logo=lightbulb&logoColor=white)](mailto:iamsupremedevelopers@gmail.com?subject=I%20Have%20an%20Idea%20for%20IAmSupreme)
 [![View Projects](https://img.shields.io/badge/View%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-tawny-62.vercel.app/projects)
 
 </div>
