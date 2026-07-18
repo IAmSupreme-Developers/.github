@@ -90,7 +90,6 @@ Add **"Developer at IAmSupreme Developers"** to your résumé. We aren't just a 
 |---|---|
 | **Senior Oversight** | No "blind leading the blind." All projects are led by experienced architects. |
 | **Real Skin in the Game** | We provide the hosting, VPS, and domains. You bring the talent. |
-| **No Exploitation** | 70% revenue share for contributors. Your work, your value. |
 | **Production Standards** | Every line of code is pushed to production-grade quality. No shortcuts. |
 | **Career-First Growth** | Our success is measured by how many of our devs get hired elsewhere. |
 
